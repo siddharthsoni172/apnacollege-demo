@@ -1,4 +1,4 @@
 # apnacollege-demo
 first proj
 <br>
-author - siddharth soni
+author - siddharth soni (siddharth)
